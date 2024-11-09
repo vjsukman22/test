@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://i.giphy.com/KgGjiK6hcxb1IGA8ga.webp">
 </p>
 
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask and Fast API**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **irgidab1@gmail.com**
 

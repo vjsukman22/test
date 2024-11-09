@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Tegar</h1>
+<h1 align="center">Hi 👋, I'm Virgiawan</h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)
